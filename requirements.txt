@@ -1,4 +1,3 @@
 streamlit
 nltk
 gtts
-tempfile
